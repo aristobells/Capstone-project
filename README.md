@@ -20,4 +20,4 @@ API paths that you can want to test on insomnia:
 -> GET Booking Tables: http://127.0.0.1:8000/restaurant/booking/tables
 -> POST - Create menuItems: http://127.0.0.1:8000/restaurant/menu-items/
 -> Put - Update menu-items: http://127.0.0.1:8000/restaurant/menu-items/5
--> Delete items: http://127.0.0.1:8000/restaurant/menu-items/4
+-> Delete items: http://127.0.0.1:8000/restaurant/menu-items/1

@@ -2,7 +2,7 @@
 
 To clone this project:
 
-- git clone https://github.com/fyardlest1/LittleLemon.git
+- git clone https://github.com/aristobells/Capstone-project.git
 - python -m venv venv
 - next activate the virtual environment
 - next, install the requirements.txt file: pip install -r requirements.txt
